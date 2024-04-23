@@ -44,7 +44,7 @@ public class SeedData implements CommandLineRunner {
         Account account3 = new Account();
         Account account4 = new Account();
 
-        account1.setEmail("adithyakirthivasan.201mt003@nitk.edu.in");
+        account1.setEmail("user@user.com");
         account1.setPassword("password");
         account1.setFirstName("user01");
         account1.setLastName("lastname");
@@ -52,7 +52,7 @@ public class SeedData implements CommandLineRunner {
         account1.setAge(22);
         account1.setDateOfBirth(LocalDate.parse("2001-02-08"));
 
-        account2.setEmail("adithyakirthivasan@outlook.com");
+        account2.setEmail("admin@admin.com");
         account2.setPassword("pass123");
         account2.setFirstName("admin");
         account2.setLastName("lastname");
