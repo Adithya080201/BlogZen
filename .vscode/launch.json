@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SpringStarterApplication<S04L06-AddingSecurityLoginAndBCryptPassword>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "org.udemy.SpringBlog.SpringStarterApplication",
+            "projectName": "S04L06-AddingSecurityLoginAndBCryptPassword",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
